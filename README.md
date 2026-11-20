@@ -56,7 +56,7 @@ Estou sempre buscando ampliar meus conhecimentos, aprimorar minhas habilidades e
   <a href="https://www.linkedin.com/in/miguel-campiao-arraes">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:miguelcampiaoarraes1905@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=miguelcampiaoarraes1905@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/miguelcampiaoarraes">
