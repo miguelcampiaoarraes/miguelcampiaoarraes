@@ -52,17 +52,6 @@ I'm always looking to learn, adapt and evolve, keeping up with technological inn
   <img src="https://skillicons.dev/icons?i=postgres,git,github,vscode" />
 </p>
 
-## GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=miguelcampiaoarraes&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcampiaoarraes&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelcampiaoarraes&theme=github-dark-blue&hide_border=true" />
-</p>
-
 ## Featured Projects
 
 <p align="center">
