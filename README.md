@@ -10,7 +10,7 @@
 
 ---
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-miguelarraes--a11y-0057FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miguelarraes-a11y)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-miguelcampiaoarraes-0057FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miguelcampiaoarraes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Campi%C3%A3o_Arraes-161B22?style=for-the-badge&logo=linkedin&logoColor=0057FF)](https://www.linkedin.com/in/miguel-campiao-arraes/)
 [![Email](https://img.shields.io/badge/Contato-miguelcampiaoarraes1905%40gmail.com-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:miguelcampiaoarraes1905@gmail.com)
 
@@ -90,10 +90,10 @@ Bancos Não Relacionais:   Conceitos de NoSQL e mensageria
 
 | Projeto | Descrição Técnica | Stack Tecnológica | Repositório |
 | :--- | :--- | :--- | :---: |
-| **Gerenciador Stokio**<br>*(Projeto Integrador SENAI)* | Sistema de controle de estoque de materiais em tempo real, gestão de kits de aprendizado e agendamento de laboratórios do FabLab SENAI Petrópolis. Conta com arquitetura em camadas completa e documentação via OpenAPI/Swagger. | `Java 17` `Spring Boot 3` `PostgreSQL` `Spring Data JPA` `Swagger UI` `Docker` | [Acessar](https://github.com/miguelarraes-a11y/Gerenciador-Stokio) |
-| **Rental Events API** | API RESTful projetada para gerenciamento completo de locação e movimentação de equipamentos de eventos. Implementa regras de negócio para status de equipamentos, usuários cadastrados e controle de histórico. | `Java 17` `Spring Boot 3` `PostgreSQL` `Hibernate` `REST API` `Swagger` | [Acessar](https://github.com/miguelarraes-a11y/Rental_Events) |
-| **Concessionária SQL**<br>*(db_revenda_miguel)* | Modelagem relacional completa para gestão de revenda de veículos. Implementa integridade referencial estrita (PKs, FKs compostas), Check Constraints de negócio e Views analíticas para vendas e estoque. | `SQL` `PostgreSQL / MySQL` `Relational Modeling` `Data Integrity` `Views` | [Acessar](https://github.com/miguelarraes-a11y/carro-trabalho-debora) |
-| **Onde Tudo Começou** | Jogo narrativo em pixel art 2D desenvolvido com lógica de cenas modulares, design sonoro e servidor Python integrado para execução multiplataforma. | `Godot 4` `GDScript` `Python` `Docker` `Pixel Art 2D` | [Acessar](https://github.com/miguelarraes-a11y/jogodoisanos) |
+| **Gerenciador Stokio**<br>*(Projeto Integrador SENAI)* | Sistema de controle de estoque de materiais em tempo real, gestão de kits de aprendizado e agendamento de laboratórios do FabLab SENAI Petrópolis. Conta com arquitetura em camadas completa e documentação via OpenAPI/Swagger. | `Java 17` `Spring Boot 3` `PostgreSQL` `Spring Data JPA` `Swagger UI` `Docker` | [Acessar](https://github.com/miguelcampiaoarraes/Gerenciador-Stokio) |
+| **Rental Events API** | API RESTful projetada para gerenciamento completo de locação e movimentação de equipamentos de eventos. Implementa regras de negócio para status de equipamentos, usuários cadastrados e controle de histórico. | `Java 17` `Spring Boot 3` `PostgreSQL` `Hibernate` `REST API` `Swagger` | [Acessar](https://github.com/miguelcampiaoarraes/Rental_Events) |
+| **Concessionária SQL**<br>*(db_revenda_miguel)* | Modelagem relacional completa para gestão de revenda de veículos. Implementa integridade referencial estrita (PKs, FKs compostas), Check Constraints de negócio e Views analíticas para vendas e estoque. | `SQL` `PostgreSQL / MySQL` `Relational Modeling` `Data Integrity` `Views` | [Acessar](https://github.com/miguelcampiaoarraes/carro-trabalho-debora) |
+| **Onde Tudo Começou** | Jogo narrativo em pixel art 2D desenvolvido com lógica de cenas modulares, design sonoro e servidor Python integrado para execução multiplataforma. | `Godot 4` `GDScript` `Python` `Docker` `Pixel Art 2D` | [Acessar](https://github.com/miguelcampiaoarraes/jogodoisanos) |
 
 ---
 
@@ -101,9 +101,9 @@ Bancos Não Relacionais:   Conceitos de NoSQL e mensageria
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=miguelarraes-a11y&show_icons=true&bg_color=0D1117&title_color=0057FF&text_color=F0F6FC&icon_color=0057FF&border_color=161B22&locale=pt-br" alt="Estatísticas do GitHub de Miguel" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=miguelcampiaoarraes&show_icons=true&bg_color=0D1117&title_color=0057FF&text_color=F0F6FC&icon_color=0057FF&border_color=161B22&locale=pt-br" alt="Estatísticas do GitHub de Miguel" height="170" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelarraes-a11y&layout=compact&bg_color=0D1117&title_color=0057FF&text_color=F0F6FC&border_color=161B22&locale=pt-br&hide=shaderlab,hlsl" alt="Linguagens Mais Utilizadas" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcampiaoarraes&layout=compact&bg_color=0D1117&title_color=0057FF&text_color=F0F6FC&border_color=161B22&locale=pt-br&hide=shaderlab,hlsl" alt="Linguagens Mais Utilizadas" height="170" />
 
 </div>
 
