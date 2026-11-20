@@ -8,7 +8,7 @@
 
 ## About Me
 
-<details open>
+<details>
 <summary>🇺🇸 English</summary>
 <br>
 
