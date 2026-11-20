@@ -6,23 +6,6 @@
 
 </div>
 
-```javascript
-const Miguel = {
-    name: "Miguel Campião Arraes",
-    country: "Brazil",
-    city: "Petrópolis, Rio de Janeiro",
-    github: "miguelcampiaoarraes",
-    interests: [
-        "Backend Development",
-        "Software Engineering",
-        "Artificial Intelligence",
-        "Database Management",
-        "REST APIs"
-    ],
-    focus: "Building efficient and scalable software solutions"
-};
-```
-
 ## About Me
 
 I'm a Systems Development student at SENAI, passionate about technology and software development. I work with Java, REST APIs and databases, with a particular interest in backend development.
