@@ -11,8 +11,8 @@
 ---
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-miguelarraes--a11y-0057FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miguelarraes-a11y)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Campi%C3%A3o_Arraes-161B22?style=for-the-badge&logo=linkedin&logoColor=0057FF)](https://www.linkedin.com/in/miguel-arraes/)
-[![Email](https://img.shields.io/badge/Contato-miguel.arraes%40aluno.senai.br-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:miguel.arraes@aluno.senai.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Campi%C3%A3o_Arraes-161B22?style=for-the-badge&logo=linkedin&logoColor=0057FF)](https://www.linkedin.com/in/miguel-campiao-arraes/)
+[![Email](https://img.shields.io/badge/Contato-miguelcampiaoarraes1905%40gmail.com-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:miguelcampiaoarraes1905@gmail.com)
 
 </div>
 
