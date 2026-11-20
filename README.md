@@ -19,11 +19,6 @@ const Miguel = {
         "Database Management",
         "REST APIs"
     ],
-    currently_learning: [
-        "Java",
-        "Spring Boot",
-        "Artificial Intelligence"
-    ],
     focus: "Building efficient and scalable software solutions"
 };
 ```
